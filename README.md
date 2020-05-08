@@ -2,5 +2,5 @@
 
 implementation of chartJS using django
 
-Ref. https://www.geeksforgeeks.org/data-visualization-using-chartjs-and-django/
+Credit ref. https://www.geeksforgeeks.org/data-visualization-using-chartjs-and-django/
 
